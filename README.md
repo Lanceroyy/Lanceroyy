@@ -29,6 +29,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-<img src="https://raw.githubusercontent.com/Lanceroyy/Lanceroyy/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Lanceroyy/Lanceroyy/snake.svg" alt="Snake animation" />
 
 ###
