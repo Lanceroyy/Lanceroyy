@@ -1,15 +1,14 @@
-## Hi there 👋
+## Well, Hello There! 👋
 # 💫 About Me:
 
-As a multidisciplinary developer with a Bachelor of Science in Software Engineering from Western Governor's University and a Bachelor of Science in Psychology from Capella University, I bring a unique perspective to technology and game development. My passion lies in creating intuitive, engaging experiences that not only solve problems but also connect with users on a deeper level.
+As a multidisciplinary developer with a <b>Bachelor of Science in Software Engineering</b> from Western Governor's University and a <b>Bachelor of Science in Psychology</b> from Capella University, I bring a unique perspective to technology and game development. My passion lies in creating intuitive, engaging experiences that not only solve problems but also connect with users on a deeper level.
 
-With expertise in software engineering, game development, and a keen understanding of human behavior, I strive to develop innovative solutions that are both technically robust and psychologically compelling. Notably, I successfully solo-developed and released a game on multiple platforms, including Android and PC, demonstrating my ability to design, develop, and deploy complex projects. Additionally, I hold certifications as an AWS Cloud Practitioner and CompTIA Project+, further solidifying my technical expertise. My portfolio also showcases other notable solo-built projects, showcasing my versatility and skill as a developer.
+With expertise in <b><i>software engineering, game development</i></b>, and a keen understanding of human behavior, I strive to develop innovative solutions that are both technically robust and psychologically compelling. Notably, I successfully solo-developed and released a game on multiple platforms, including Android and PC, demonstrating my ability to design, develop, and deploy complex projects. Additionally, I hold certifications as an <b>AWS Cloud Practitioner</b> and <b>CompTIA Project+</b>, further solidifying my technical expertise. My portfolio also showcases other notable solo-built projects, showcasing my versatility and skill as a developer.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Lanceroller) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)](https://lanceroller.com)
-
+## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Lanceroller)[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://lanceroyy.github.io/Lanceroy/)
+---
 ###
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lanceroyy/Lanceroyy/output/pacman-contribution-graph-dark.svg" />
@@ -18,8 +17,6 @@ With expertise in software engineering, game development, and a keen understandi
 </picture>
 
 ###
-
-
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
@@ -60,9 +57,7 @@ With expertise in software engineering, game development, and a keen understandi
 
 
 # 📊 GitHub Stats:
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Lanceroyy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Lanceroyy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lanceroyy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Lanceroyy&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
