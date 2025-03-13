@@ -11,7 +11,11 @@ With expertise in software engineering, game development, and a keen understandi
 
 ###
 
-<img src="https://raw.githubusercontent.com/Lanceroyy/Lanceroyy/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lanceroyy/Lanceroyy/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lanceroyy/Lanceroyy/output/pacman-contribution-graph.svg" />
+  <img alt="pacman-contribution" src="https://raw.githubusercontent.com/Lanceroyy/Lanceroyy/output/pacman-contribution-graph.svg" />
+</picture>
 
 ###
 
