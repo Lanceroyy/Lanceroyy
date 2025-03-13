@@ -1,5 +1,5 @@
 ## Well, Hello There! 👋
-# 💫 About Me:
+# 💻 About Me:
 
 As a multidisciplinary developer with a <b>Bachelor of Science in Software Engineering</b> from Western Governor's University and a <b>Bachelor of Science in Psychology</b> from Capella University, I bring a unique perspective to technology and game development. My passion lies in creating intuitive, engaging experiences that not only solve problems but also connect with users on a deeper level.
 
@@ -54,14 +54,6 @@ With expertise in <b><i>software engineering, game development</i></b>, and a ke
 ![PlayFab](https://img.shields.io/badge/playfab-%23F05033.svg?style=for-the-badge&logo=microsoft&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 
-
-
-# 📊 GitHub Stats:
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lanceroyy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Lanceroyy&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
 ###
 
 <div align="left">
@@ -98,6 +90,14 @@ With expertise in <b><i>software engineering, game development</i></b>, and a ke
 
 ###
 
+# 📊 GitHub Stats:
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lanceroyy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Lanceroyy&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+
+
 ## 🎓 Education & Certifications:
 ![WGU](https://img.shields.io/badge/WGU-Software%20Engineering-003057?style=flat-square)
 ![Capella University](https://img.shields.io/badge/Capella%20University-Psychology-6F2C91?style=flat-square)
@@ -118,5 +118,8 @@ With expertise in <b><i>software engineering, game development</i></b>, and a ke
 </picture>
 <br>
 
-## 💰 You can help me by Donating
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/lanceroy)
+## ❤️ You can help me by Donating
+<a href="https://ko-fi.com/lanceroy" target="_blank">
+  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi" height="50" />
+</a>
+
