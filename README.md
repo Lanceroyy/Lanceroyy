@@ -99,9 +99,9 @@ With expertise in <b><i>software engineering, game development</i></b>, and a ke
 
 
 ## 🎓 Education & Certifications:
-![WGU](https://img.shields.io/badge/WGU-Software%20Engineering-003057?style=flat-square)
-![Capella University](https://img.shields.io/badge/Capella%20University-Psychology-6F2C91?style=flat-square)
-![Sierra College](https://img.shields.io/badge/Sierra%20College-Communications-4285F4?style=flat-square)
+![WGU](https://img.shields.io/badge/WGU-B.S.%20Software%20Engineering-003057?style=flat-square)
+![Capella University](https://img.shields.io/badge/Capella%20University-B.S.%20Psychology-6F2C91?style=flat-square)
+![Sierra College](https://img.shields.io/badge/Sierra%20College-A.S.%20Communications-4285F4?style=flat-square)
 ![AWS](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![CompTIA](https://img.shields.io/badge/CompTIA-Project%2B-007F3D?style=flat-square&logo=comptia&logoColor=white)
 ![ITIL](https://img.shields.io/badge/ITIL-4%20Practitioner-8A2BE2?style=flat-square)
